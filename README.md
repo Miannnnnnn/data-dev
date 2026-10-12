@@ -4,14 +4,15 @@
 
 ## 目录结构
 
-- notes/cheatsheets — 学习笔记与速查表
-- sql — SQL 练习与脚本
-- shell — Shell 脚本练习
-- python — Python 练习文件
-- data — 数据文件（CSV、SQL 导出等）
-- projects — 项目文件
-- docs — 文档
-- README.md — 本文件
+data-dev/
+├── notes/cheatsheets # 学习笔记与速查表
+├── sql # SQL 练习与脚本
+├── shell # Shell 脚本练习
+├── python # Python 练习文件
+├── data # 数据文件（CSV、SQL 导出等）
+├── projects # 项目文件
+├── docs # 文档
+└── README.md # 本文件
 
 ## 使用说明
 
